@@ -126,4 +126,4 @@ https://github.com/flambeau33/blog-api-nodejs
 
 ##  Auteur
 
-Flambeau
+NSUTI FLAMBEAU ARISTIDE
