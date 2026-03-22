@@ -11,9 +11,9 @@ const swaggerOptions = {
   swaggerDefinition: {
     openapi: "3.0.0",
     info: {
-      title: "Blog API",
+      title: "FLAMBEAU Blog API",
       version: "1.0.0",
-      description: "API pour gérer des articles de blog",
+      description: "API pour gérer des articles de blog\",
     },
     servers: [
       {
