@@ -7,7 +7,7 @@ Elle permet de gérer les articles d’un blog : création, lecture, modificatio
 
 ---
 
-## 🛠️ Technologies utilisées
+##  Technologies utilisées
 
 * Node.js
 * Express.js
@@ -88,7 +88,7 @@ Swagger permet de tester directement les endpoints de l’API via une interface 
 
 ##  Endpoints disponibles
 
-### ➤ Créer un article
+###  Créer un article
 
 **POST /api/articles**
 
@@ -124,7 +124,7 @@ curl -X PUT http://localhost:3000/api/articles/1 \
 
 ---
 
-### ➤ Supprimer un article
+###  Supprimer un article
 
 **DELETE /api/articles/{id}**
 
