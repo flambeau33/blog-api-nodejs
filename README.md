@@ -45,11 +45,12 @@ date_creation TIMESTAMP DEFAULT CURRENT_TIMESTAMP
 
 ---
 
-## 3.2 Modifier les informations de connexion dans app.js
+### 3.2 Modifier les informations de connexion dans app.js
 host: "localhost",
 user: "bloguser",
 password: "12345678",
 database: "blog_db"
+
 ---
 
 ## Lancement du serveur
