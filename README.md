@@ -43,6 +43,8 @@ tags VARCHAR(255),
 date_creation TIMESTAMP DEFAULT CURRENT_TIMESTAMP
 );
 
+---
+
 ## 3.2 Modifier les informations de connexion dans app.js
 host: "localhost",
 user: "bloguser",
